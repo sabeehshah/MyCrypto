@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyCrypto</string>
+    <string name="pass_hint">Password</string>
+    <string name="email_hint">Your Email</string>
+    <string name="login_logo_desc">This is the login logo</string>
+    <string name="login_btn_text">Login</string>
+    <string name="login_reg_btn_text">Register</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">CREATE NEW ACCOUNT</string>
+    <string name="reg_login_text">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="reg_pass_text">Password</string>
+    <string name="reg_confirm_pass_text">Confirm Password</string>
+    <string name="setup_name_hint">Your Name</string>
+    <string name="setup_btn_name_text">SAVE ACCOUNT SETTINGS</string>
+    <string name="newcoin_amount_hint">Amount</string>
+    <string name="newcoin_exchange_hint">Exchange Name</string>
+    <string name="newcoin_test">Test</string>
+    <string name="new_coin_btn_text">Add Coin</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_news_text">News</string>
+    <string name="bottom_acc_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_total_amount">Total Amount:</string>
+    <string name="lbl_exchangeName">Exchange:</string>
+    <string name="lbl_price_usd">Price USD:</string>
+    <string name="lbl_price_btc">Price BTC:</string>
+    <string name="lbl_change24">24hr %</string>
+    <string name="coin_delete_btn">Delete</string>
+</resources>

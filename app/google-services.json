@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153230973388",
+    "firebase_url": "https://mycrypto-8b47d.firebaseio.com",
+    "project_id": "mycrypto-8b47d",
+    "storage_bucket": "mycrypto-8b47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153230973388:android:9a09ae23abf0fa15",
+        "android_client_info": {
+          "package_name": "sabeeh.shah.mycrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153230973388-gf0uediromduonp9muaj2lua42np70sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sabeeh.shah.mycrypto",
+            "certificate_hash": "0c2439a410c713694d087a02b8720efe2bd5aaa9"
+          }
+        },
+        {
+          "client_id": "153230973388-4psv3lq45ouvrk17rpf1fl55htciqq3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmo4mil_Y9vKQQ9HNIsk5tGU_e1pTDEx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153230973388-4psv3lq45ouvrk17rpf1fl55htciqq3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
